@@ -262,7 +262,7 @@ export const managers = [
       "philosophy": "Bucky & Lamar ftw",
       "tradingScale": 4, // 1 - 10
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    },
+    }
   ]
   
   
