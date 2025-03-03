@@ -174,7 +174,7 @@
         <div class="subBlock">
             <table class="positionMaximums">
                 <tbody>
-                <tr><td>QB</td><td class="right">3 active, 5 total</td></tr>
+                <tr><td>QB</td><td class="right">6</td></tr>
                 <tr><td>RB</td><td class="right">20</td></tr>
                 <tr><td>WR</td><td class="right">20</td></tr>
                 <tr><td>TE</td><td class="right">10</td></tr>
